@@ -6,8 +6,14 @@ permalink: /
 
 ## satsuki2200
 
+- Kindai University Faculty of Conputer Science B3
+- [Network Lab.](https://www.igulab.org/)
+- [KINDAI Info-Tech HUB](https://kithub.jp/) board_member
 
-
+SNS
+- [Twitter](https://twitter.com/satsuki2200/)
+- [GitHub](https://github.com/satsuki2200/)
+- [mixi2](https://mixi.social/@satsuki2200)
 
 ---
 
