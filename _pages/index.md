@@ -1,6 +1,6 @@
 ---
 title: "satsuki2200"
-author: satsuki2200
+author: default
 permalink: /
 ---
 
